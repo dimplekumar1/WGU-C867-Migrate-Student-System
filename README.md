@@ -4,7 +4,6 @@ University Student System Migration and Data Management in C++
 This project showcases my work as a contractor hired to assist a university in migrating their existing student system to a new platform using the C++ programming language. The application's requirements were already outlined, and my responsibility was to implement a specific part of the system focused on reading and manipulating provided student data.
 
 Key Features:
-
 Data Migration: The project involved seamlessly transferring student information, including student ID, first name, last name, email address, age, course completion durations, and degree program, from the legacy system to the new platform.
 
 C++ Implementation: I developed a program that employs C++ to create two essential classes: Student and Roster. These classes are designed to efficiently manage the student data, enabling easy access and manipulation of information.
@@ -14,7 +13,6 @@ Data Parsing and Storage: The program efficiently parses a list of five students
 Functionality for Data Manipulation: The implemented program provides function calls that facilitate data manipulation tasks, as specified in the outlined requirements. This includes adding and removing students, updating student records, and generating data-related output to the console.
 
 How to Use:
-
 The repository contains the complete C++ source code for the project. To utilize it, follow these steps:
 
 Clone the repository to your local machine using the command git clone <repository-url>.
@@ -24,4 +22,4 @@ Contribution Guidelines:
 
 Contributions to this project are welcome! If you encounter any bugs, have feature suggestions, or wish to enhance the functionality, feel free to open an issue or submit a pull request. Please ensure your contributions adhere to the project's coding standards and maintain clarity and efficiency.
 
-Join me on this exciting journey of mastering C++ while handling real-world data migration challenges for an academic institution
+Join me on this exciting journey of mastering C++ while handling real-world data migration challenges for an academic institution.
