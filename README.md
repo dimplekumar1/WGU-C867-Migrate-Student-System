@@ -4,7 +4,7 @@
 
 ## **Project Description:**
 
-This project showcases my work as a contractor hired to assist a university in migrating their existing student system to a new platform using the C++ programming language. The application's requirements were already outlined, and my responsibility was to implement a specific part of the system focused on reading and manipulating provided student data.
+This project is related to assisting a university in migrating their existing student system to a new platform using the C++ programming language. The application's requirements were already outlined, and my responsibility was to implement a specific part of the system focused on reading and manipulating provided student data.
 
 ## **Key Features:**
 
