@@ -24,8 +24,3 @@ The repository contains the complete C++ source code for the project. To utilize
 2. Compile the C++ code using your preferred C++ compiler (e.g., g++, Visual Studio, etc.).
 3. Run the compiled executable, and it will demonstrate the functionality of the student system, as described in the project specifications.
 
-## **Contribution Guidelines:**
-
-Contributions to this project are welcome! If you encounter any bugs, have feature suggestions, or wish to enhance the functionality, feel free to open an issue or submit a pull request. Please ensure your contributions adhere to the project's coding standards and maintain clarity and efficiency.
-
-Join me on this exciting journey of mastering C++ while handling real-world data migration challenges for an academic institution. Let's make a positive impact on the university's student management system together!
